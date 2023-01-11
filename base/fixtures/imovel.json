@@ -1,0 +1,61 @@
+[{
+	"model": "base.Imovel",
+	"pk": 1,
+	"fields": {
+		"guest_limit": 4,
+		"bathrooms": 2,
+		"accept_pet": true,
+		"cleaning_price": 59.9,
+		"activated_at": "2022-01-01",
+        "created_at": "2023-01-01T15:04:42.666949Z",
+        "updated_at": "2023-01-01T15:04:42.666981Z"
+	}
+}, {
+    "model": "base.Imovel",
+    "pk": 2,
+    "fields": {
+        "guest_limit": 2,
+        "bathrooms": 1,
+        "accept_pet": false,
+        "cleaning_price": 19.9,
+        "activated_at": "2022-01-03",
+        "created_at": "2023-01-03T19:38:57.763489Z",
+        "updated_at": "2023-01-03T19:38:57.763525Z"
+    }
+}, {
+    "model": "base.Imovel",
+    "pk": 3,
+    "fields": {
+        "guest_limit": 3,
+        "bathrooms": 1,
+        "accept_pet": true,
+        "cleaning_price": 39.9,
+        "activated_at": "2022-01-05",
+        "created_at": "2023-01-05T20:39:55.068200Z",
+        "updated_at": "2023-01-05T20:39:55.068236Z"
+    }
+}, {
+    "model": "base.Imovel",
+    "pk": 4,
+    "fields": {
+        "guest_limit": 3,
+        "bathrooms": 1,
+        "accept_pet": false,
+        "cleaning_price": 29.9,
+        "activated_at": "2022-01-08",
+        "created_at": "2023-01-08T22:27:48.446108Z",
+        "updated_at": "2023-01-08T22:27:48.446145Z"
+    }
+}, {
+    "model": "base.Imovel",
+    "pk": 5,
+    "fields": {
+        "guest_limit": 2,
+        "bathrooms": 1,
+        "accept_pet": false,
+        "cleaning_price": 59.9,
+        "activated_at": "2022-01-10",
+        "created_at": "2023-01-10T08:30:04.073407Z",
+        "updated_at": "2023-01-10T08:30:04.074533Z"
+    }
+}]
