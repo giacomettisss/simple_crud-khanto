@@ -9,6 +9,6 @@
 7. In this project we have three APIs 'imovel', 'anuncio', 'reserva'
 8. If you wish you can see the relationship between them accessing the diagrom of the entities in this link: https://dbdiagram.io/d/63ba00e47d39e42284e988e0
 9. To access any of the APIs, just throw at your browser http://localhost:8000/ + entity as http://localhost:8000/anuncio
-10. In order to see the rutes available in any API add at the end of the link '/overview' like http://localhost:8000/anuncio/overview
+10. In order to see the rutes available in any API jsut open the main route http://localhost:8000/anuncio
 
 That`s all! =D 
