@@ -1,4 +1,4 @@
-# Django4 Simple CRUD
+# Django4 Simple CRUD with REST
 
 1. Create your virtual environment, example: 'python3 -m venv venv'
 2. Run makemigrations with 'python3 manage.py makemigrations'
